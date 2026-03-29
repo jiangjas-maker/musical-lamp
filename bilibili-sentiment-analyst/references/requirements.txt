@@ -1,0 +1,8 @@
+requests
+pandas
+scikit-learn
+jieba
+nltk
+langdetect
+openpyxl
+numpy
